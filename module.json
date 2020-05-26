@@ -1,0 +1,14 @@
+{
+    "author": "Futomomo",
+    "category": "client",
+    "description": "A recolor of the Grand Witch's Hat",
+    "disableAutoUpdate": false,
+    "name": "Grand Witch Recolor",
+    "options": {
+        "guiName": "Costume: Grand Witch Recolor",
+        "niceName": "Grand Witch Recolor"
+    },
+    "servers": [
+        "https://github.com/Futomomo-mod/Grand-Witch-Recolor"
+    ]
+}
