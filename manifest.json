@@ -1,8 +1,7 @@
 {
   "files": {
-    "Acc_173.gpk": "06f4c86724f9f7c6f3919c0e86af25127baf20ccd757d06779c8586e4a2b8258",
-    "manifest.json": "50e8f2ffa2a663d990a6e96d465918a6d3461404980c9438d3e6953e7554d0ed",
-    "module.json": "3e5790c242a3399c9199fa4bbc7af86cb38afc558de90b8045edd1bd4f73f5da"
-
+    "Acc_173.gpk": "5e423be5c3e2afac6babeafc0ba1a6006ae44295e30d9a17df5655eaca10b4ae",
+    "index.js": "62bb0c40d987a82d922449d971184273f4ea0435f78561e8afee7743e1c5b40f",
+    "module.json": "f50d20ed95fca6e57d5f4e1ce707a0991fe7bb74b6a88461b9537e98cd481043",
   }
 }
